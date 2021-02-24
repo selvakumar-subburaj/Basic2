@@ -1,1 +1,2 @@
 This is a new test file created in Basic2 repo
+Second line added
